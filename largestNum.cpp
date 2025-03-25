@@ -13,6 +13,9 @@ int largestNumber(int n[], int len){
     return largest;
 }
 
+int largest3Num(int n[], int len){
+    int
+}
 int main(){
     int arr[] = {34,12,65,22,14,54,75,37};
     int length = sizeof(arr)/sizeof(arr[0]);
