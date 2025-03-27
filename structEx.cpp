@@ -24,3 +24,4 @@ int main(){
     cout << "Salary : "<<pVar.salary << endl;
     return 0;
 }
+
